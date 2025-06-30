@@ -2,6 +2,10 @@
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![AWS](https://img.shields.io/badge/AWS-Data%20Pipeline-orange)
+![Python](https://img.shields.io/badge/python-3.9-blue)
+![PySpark](https://img.shields.io/badge/pyspark-ETL-yellow)
+![AWS Glue](https://img.shields.io/badge/AWS%20Glue-Serverless-lightgrey)
+![Athena](https://img.shields.io/badge/Athena-SQL-blueviolet)
 
 This project demonstrates an end-to-end data engineering pipeline on AWS. It shows how to build a scalable, cloud-based data lake architecture to ingest, transform, catalog, query, and visualize data in a cost-effective and efficient way.
 
